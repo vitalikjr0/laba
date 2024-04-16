@@ -1,0 +1,6 @@
+project_requests/
+project_numpy/
+venv_*/
+.venv/
+__pycache__/
+.coverage
